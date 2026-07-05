@@ -1,0 +1,4 @@
+name: ecaps-word
+build:
+  cmake: .
+  kconfig: Kconfig
